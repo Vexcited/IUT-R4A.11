@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Hello World</string>
+    <string name="activity_main_primary_text">Coucou j\'ai trouvé comment faire</string>
+    <string name="display_label">La deuxième vue</string>
+</resources>

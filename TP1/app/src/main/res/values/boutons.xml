@@ -1,0 +1,5 @@
+<resources>
+    <string name="valider">Valider</string>
+    <string name="next">Prochain</string>
+    <string name="previous">Précédent</string>
+</resources>
