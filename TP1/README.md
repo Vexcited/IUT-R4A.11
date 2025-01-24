@@ -8,15 +8,15 @@ Il se trouve dans le `res/layout` du projet.
 ## Question 2 : Qu'avez-vous modifié ?
 
 ```diff
-<TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
---        android:text="Hello World!"
-++        android:text="Coucou j'ai trouvé comment faire"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+ <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+-        android:text="Hello World!"
++        android:text="Coucou j'ai trouvé comment faire"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toTopOf="parent" />
 ```
 
 On peut modifier le composant `TextView` pour changer le texte affiché dans le layout XML.
